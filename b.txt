@@ -1,0 +1,2 @@
+This is a text file which named b.txt ; bbbbbbbbb
+
