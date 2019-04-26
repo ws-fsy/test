@@ -2,3 +2,4 @@ master add file e.txt and commit
 dev branch add this line and not commit
 master add the line again 33333333
 the line add for E530 for test branch crashed ;  5555555555555
+add  line for  vm for test  branch crashed
