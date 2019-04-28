@@ -1,0 +1,4 @@
+This is a text file which named b.txt ; bbbbbbbbb
+The line is add from Web github.com, and for test pull function.  https:\\github.com online edit and stored....>>>>>
+modified by xujiahui for stash practice
+add line to test diff  , work directory and  staged ,  staged and Head
